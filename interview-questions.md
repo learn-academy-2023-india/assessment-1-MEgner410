@@ -10,39 +10,58 @@ Type your initials here to confirm you read the instructions:
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
+Your answer: 
 
 Researched answer:
 
 1. What is git? What is the difference between git and Github?
 
-Your answer:
+Your answer: git is a local software that allows changes in a prograhm that will be tracked. 
 
-Researched answer:
+github is a remote space were develpers can store, update, and make changes as well as clone branches
+
+Researched answer: git : a tool use to allow soure code  repositories. it allows featuers such as, branching and staginging areas.
+
+github: the collabration platform build on top of git, you can push, and pull repositories so that developers can make neede changes on this prograhm. the programs can be tested to allow for feedback in the community.
 
 
 2. What is the difference between an array's index and its value?
 
-Your answer:
+Your answer: an array's index will list the data inside either zero-indexed (0,1,2,3) or not (1,2,3,4) , the value is the data that is stored as variables in the array . 
 
-Researched answer:
+
+Researched answer: index used a place holder in the value of the array
+
+  value  used to define the varuables types value being used in the indexs
 
 3. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
-Your answer:
+Your answer: Arrays identified in code by [] brackets it is similar type data that are stored and must be specifcally identified by a value
+ ex. console.log [2,3,4,5,6,]
 
-Researched answer:
+strings are identified by "" a sequence of charators that is not a primitive data type 
+ex. console log "apples"
+
+Researched answer: 
+in jaca strings is bascily treat as an object which repersents a sequence of charaters
+ 
+ a string can be turned into a array 
+ an array can be turned back into a string
+
+arrays a collection of elements that are in a contigous memory location arrays can contain primitive and objections (non-primitive) refrences
 
 4. STRETCH: What are the four pillars of object oriented programming?
 
-Researched answer:
+Researched answer: the 4 pillars of object oriented programing are, inheritance(sharing of information), encapsulation (grouping of information), abstration (hiding of information), polymorphism (redifinding of information)
+
+
 
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms. Hint: use the syllabus!
 
-1. Higher-order Functions:
+1. Higher-order Functions: is a built in method in javascript that in a function as a argument
 
-2. Jest:
+2. Jest: a testing framework for javascript, they contain a collection of files called dependencies
 
-3. Objects:
+3. Objects: a javascript data type that has collections of key:value pairs, obects can contain static information as wellas actions in the form methyod
