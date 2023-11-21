@@ -6,7 +6,7 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-Type your initials here to confirm you read the instructions:
+Type your initials here to confirm you read the instructions: ME
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
