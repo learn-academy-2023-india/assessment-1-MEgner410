@@ -22,7 +22,7 @@ github is a remote space were develpers can store, update, and make changes as w
 
 Researched answer: git : a tool use to allow soure code  repositories. it allows featuers such as, branching and staginging areas.
 
-github: the collabration platform build on top of git, you can push, and pull repositories so that developers can make neede changes on this prograhm. the programs can be tested to allow for feedback in the community.
+github: the collabration platform build on top of git, you can push, and pull repositories so that developers can make needed changes on a prograhm. the programs can be tested to allow for feedback in the community.
 
 
 2. What is the difference between an array's index and its value?
@@ -37,20 +37,20 @@ Researched answer: index used as a place holder in the value of the array
 
 3. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
-Your answer: Arrays identified in code by [] brackets, it is a similar type of data that are stored, and must be specifcally identified by a value
+Your answer: Arrays identified in code by [] brackets, it is a similar type of data that are stored, and must be specifcally identified by a value also the size of an Array is fixed. 
  ex. console.log [2,3,4,5,6,]
 
-strings are identified by "" a sequence of charators that is not a primitive data type 
+strings:  are identified by "". they contain a sequence of charators that is not a primitive data type, and it can be changed. 
 ex. console log "apples"
 
 Researched answer: 
+a collection of fixed-sized sequantial items with the same basic type is an Array.
 in javascript strings bascily treat data as an object which repersents a sequence of charaters
- 
- a string can be turned into a array with .split
- an array can be turned back into a string with .join
+ a string can be turned into a array with the command .split, where as an array can be turned back into a string with the command .join.
 
-arrays are a collection of elements that are in a contigous memory location. arrays can contain primitive and objections (non-primitive) refrences
-
+ A critical diffence between the two data types would be: when the strings data is administered it can be changed.
+ Arrays are a cache of elements, that are in a contigous memory location. 
+ Arrays can contain primitive and objections (non-primitive) sources. String and Array's are known to be similar data tyeps, with the diffrence being the charator type.
 
 4. STRETCH: What are the four pillars of object oriented programming?
 
