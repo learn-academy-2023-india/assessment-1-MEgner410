@@ -10,9 +10,9 @@ Type your initials here to confirm you read the instructions: ME
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer: 
+Your answer: a action that happenes to tell the program that it is eiter true or false
 
-Researched answer:
+Researched answer: a sequential set of instructions computers use to make decisions.
 
 1. What is git? What is the difference between git and Github?
 
@@ -27,28 +27,30 @@ github: the collabration platform build on top of git, you can push, and pull re
 
 2. What is the difference between an array's index and its value?
 
-Your answer: an array's index will list the data inside either zero-indexed (0,1,2,3) or not (1,2,3,4) , the value is the data that is stored as variables in the array . 
+Your answer: an array's index will list the data inside either zero-indexed (0,1,2,3) or not (1,2,3,4) ,
+ the value: is the data that is stored as variables in the array. 
 
 
-Researched answer: index used a place holder in the value of the array
+Researched answer: index used as a place holder in the value of the array
 
-  value  used to define the varuables types value being used in the indexs
+  value: is used to define the varuables types being used in the indexs
 
 3. Compare and contrast arrays and strings. Please include ways in which they are the same and ways in which they are different.
 
-Your answer: Arrays identified in code by [] brackets it is similar type data that are stored and must be specifcally identified by a value
+Your answer: Arrays identified in code by [] brackets, it is a similar type of data that are stored, and must be specifcally identified by a value
  ex. console.log [2,3,4,5,6,]
 
 strings are identified by "" a sequence of charators that is not a primitive data type 
 ex. console log "apples"
 
 Researched answer: 
-in jaca strings is bascily treat as an object which repersents a sequence of charaters
+in javascript strings bascily treat data as an object which repersents a sequence of charaters
  
- a string can be turned into a array 
- an array can be turned back into a string
+ a string can be turned into a array with .split
+ an array can be turned back into a string with .join
 
-arrays a collection of elements that are in a contigous memory location arrays can contain primitive and objections (non-primitive) refrences
+arrays are a collection of elements that are in a contigous memory location. arrays can contain primitive and objections (non-primitive) refrences
+
 
 4. STRETCH: What are the four pillars of object oriented programming?
 
@@ -60,7 +62,7 @@ Researched answer: the 4 pillars of object oriented programing are, inheritance(
 
 Research and define the following terms. Hint: use the syllabus!
 
-1. Higher-order Functions: is a built in method in javascript that in a function as a argument
+1. Higher-order Functions: is a built in method in javascript that functions as a argument
 
 2. Jest: a testing framework for javascript, they contain a collection of files called dependencies
 
